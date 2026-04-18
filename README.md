@@ -9,4 +9,8 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joao-roberto13&show_icons=true&locale=en" alt="joao-roberto13" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joao-roberto13&" alt="joao-roberto13" /></p>
+<p>
+  <img align="center" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=joao-roberto13&cache_seconds=0" 
+       alt="joao-roberto13" />
+</p>
