@@ -1,24 +1,33 @@
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">Connect with Me</h2>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-roberto-inguane-060917357/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" />
   </a>
   <a href="https://www.instagram.com/the_cool_uncle13/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="45" />
   </a>
 </p>
 
-<p>
-  <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-roberto13&show_icons=true&locale=en&layout=compact" 
-       alt="joao-roberto13" />
+<h2 align="center">GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Joao-Roberto13&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+    height="170"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Joao-Roberto13&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+    height="170"
+  />
 </p>
 
-<p>
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=joao-roberto13&theme=dark&hide_border=true&border_radius=30&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&v=1" 
-      alt="GitHub Streak" 
-    />
-  </a>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Joao-Roberto13&theme=tokyonight&border_radius=10"
+    alt="GitHub Streak"
+  />
 </p>
